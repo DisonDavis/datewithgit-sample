@@ -1,0 +1,30 @@
+[33mcommit ea91524af7f24b5c902b54957f4f219a7df79dad[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 344a499 c0f7c4b
+Author: Dison Davis <disondavis@msn.com>
+Date:   Fri Jul 1 22:14:44 2022 +0530
+
+    WIP on feature: 344a499 added new feature
+
+[33mcommit c0f7c4bafa6cf8c3d2ca16ea37ed0f82858f1f03[m
+Author: Dison Davis <disondavis@msn.com>
+Date:   Fri Jul 1 22:14:44 2022 +0530
+
+    index on feature: 344a499 added new feature
+
+[33mcommit 344a4990ad14e8fe3a092c6275efc93e2560db46[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Dison Davis <disondavis@msn.com>
+Date:   Fri Jul 1 21:57:50 2022 +0530
+
+    added new feature
+
+[33mcommit 6dcb0a35b9c53134f697a932a4e9a34fbf2deccd[m
+Author: Dison Davis <disondavis@msn.com>
+Date:   Fri Jul 1 19:57:19 2022 +0530
+
+    modified the index.html file
+
+[33mcommit ddbd838ce1696c0b124221b5e7774e148ddf25ee[m
+Author: Dison Davis <disondavis@msn.com>
+Date:   Fri Jul 1 19:49:55 2022 +0530
+
+    initial commit
